@@ -27,12 +27,10 @@ My approach is grounded in a few key principles:
 
 This portfolio is a mix of structured projects and working examples—some are fully developed analyses, while others capture specific patterns, techniques, or solutions I’ve built along the way.
 
-Together, they reflect how I approach data problems: starting with messy or incomplete inputs, structuring them into something usable, and building reporting that is clear, scalable, and reliable.
-
-# Featured Projects
+# Projects
 
 - [Renewals Reporting — SOAR Case Study]({{ '/data/case-studies/renewals-reporting/' | relative_url }})
 
-# Approach
+
 
 # Techstack/Skills
