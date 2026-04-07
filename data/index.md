@@ -21,8 +21,8 @@ I primarily work with Power BI, SQL, and data modeling to design scalable report
 My approach is grounded in a few key principles:
 
 - Good reporting lets people explore confidently
-- Metrics only matter if everyone is working from the same definitiond
-- Dashboards reflect how decisions are actually made
+- Metrics only matter if everyone is working from the same definition
+- Dashboards reflect how decisions are made
 - Clean design matters—but so does performance and long-term maintainability
 
 This portfolio is a mix of structured projects and working examples—some are fully developed analyses, while others capture specific patterns, techniques, or solutions I’ve built along the way.
