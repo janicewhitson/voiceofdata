@@ -27,10 +27,59 @@ My approach is grounded in a few key principles:
 
 This portfolio is a mix of structured projects and working examples—some are fully developed analyses, while others capture specific patterns, techniques, or solutions I’ve built along the way.
 
+# Tools & Expertise
+
+<div class="tools-expertise">
+  <div class="expertise-group">
+    <h3>BI &amp; Visualization</h3>
+    <div class="expertise-tags">
+      <span class="expertise-tag">Power BI</span>
+      <span class="expertise-tag">Excel</span>
+      <span class="expertise-tag">Power Query</span>
+    </div>
+  </div>
+
+  <div class="expertise-group">
+    <h3>Data Modeling</h3>
+    <div class="expertise-tags">
+      <span class="expertise-tag">Semantic Layer Design</span>
+      <span class="expertise-tag">Star Schema</span>
+      <span class="expertise-tag">DAX</span>
+      <span class="expertise-tag">Calculated Measures &amp; KPIs</span>
+    </div>
+  </div>
+
+  <div class="expertise-group">
+    <h3>Query &amp; Data</h3>
+    <div class="expertise-tags">
+      <span class="expertise-tag">SQL</span>
+      <span class="expertise-tag">Data Reconciliation</span>
+      <span class="expertise-tag">Databricks (validation &amp; review)</span>
+    </div>
+  </div>
+
+  <div class="expertise-group">
+    <h3>Practices &amp; Concepts</h3>
+    <div class="expertise-tags">
+      <span class="expertise-tag">KPI Definition &amp; Governance</span>
+      <span class="expertise-tag">Self-Service Reporting Design</span>
+      <span class="expertise-tag">Stakeholder Reporting</span>
+      <span class="expertise-tag">Data Storytelling</span>
+      <span class="expertise-tag">Dashboard Performance &amp; Maintainability</span>
+    </div>
+  </div>
+
+  <div class="expertise-group">
+    <h3>Domain Expertise</h3>
+    <div class="expertise-tags">
+      <span class="expertise-tag expertise-tag-domain">Software Licensing</span>
+      <span class="expertise-tag expertise-tag-domain">SaaS Renewals</span>
+      <span class="expertise-tag expertise-tag-domain">Reseller &amp; Channel Operations</span>
+      <span class="expertise-tag expertise-tag-domain">Procurement &amp; Vendor Reporting</span>
+    </div>
+  </div>
+</div>
+
 # Projects
 
 - [Renewals Reporting — SOAR Case Study]({{ '/data/case-studies/renewals-reporting/' | relative_url }})
-
-
-
-# Techstack/Skills
