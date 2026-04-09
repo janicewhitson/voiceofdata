@@ -131,6 +131,44 @@ a {
   fill: currentColor;
 }
 
+.tools-expertise {
+  margin: 0.8rem 0 2rem;
+  display: grid;
+  gap: 1.1rem;
+}
+
+.expertise-group h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: #374151;
+}
+
+.expertise-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+.expertise-tag {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid #6b7280;
+  border-radius: 999px;
+  padding: 0.28rem 0.85rem;
+  background: #f8fafc;
+  color: #1f2937;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.expertise-tag-domain {
+  border-color: #3b82f6;
+  background: #dbeafe;
+  color: #1d4ed8;
+}
+
 /* Landing page cards */
 .section-cards {
   display: grid;
