@@ -6,62 +6,64 @@
 
 > **Working title:** Partner Commission Modeling Tool — Concept & Mockup
 >
-> **Role:** Independent — built as a favour for a friend
+> **Role:** Independent — built as a favor for a friend
 >
-> **Timeline:** ~1-2 hours, single session
+> **Timeline:** ~1–2 hours, single session
 
 ---
 
 ## Situation
 
-A friend working at an early-stage ISV was developing an internal proposal for a formal partner program — something the company had never had. The idea was to create a tiered commission structure that would incentivize external partners to sell the company's products, with commission rates and partner status tied to sales volume and commitment term.
+A friend working at an early-stage ISV was developing an internal proposal for a formal partner program—something the company had never had. The concept was a tiered commission structure to incentivize external partners to sell company products, with commission rates and partner status tied to sales volume and commitment term.
 
-The proposal was solid conceptually, but it was just words on a page. Without something tangible to demonstrate how the program would actually work — what a partner would earn, what tier they'd qualify for — it was difficult to make the business case feel real to leadership.
+The proposal was strong conceptually, but it was still narrative-only. Without a working model to demonstrate expected earnings and tier outcomes, it was hard to make the business case tangible for leadership.
 
 ## Obstacle
 
-* **No existing program to reference:** The company had no partner program, no commission history, and no established tier structure. Everything had to be modeled from scratch using proposed values.
-* **Abstract without a visual:** A written proposal describing commission tiers is easy to dismiss. Leadership needed to see the numbers move in response to real inputs to understand the program's potential.
-* **Two distinct partner scenarios:** The tool needed to serve both prospective new partners evaluating whether to join, and existing partners considering whether to expand their commitment — two different questions requiring different logic.
+* **No baseline program:** There was no existing partner program, no commission history, and no established tier framework.
+* **Abstract proposal risk:** Written descriptions of tier mechanics were easy to dismiss without an interactive model.
+* **Dual-use requirement:** The tool needed to support both prospective partners (join decision) and existing partners (expand decision), which required separate scenario logic.
 
 ## Action
 
-During a conversation about the proposal, I offered to build a working mockup of the commission calculator. The layout and structure were clear in my head from prior experience with tiered pricing models, so the build took roughly one to two hours as a single focused session.
+During a conversation about the proposal, I offered to build a working Excel mockup. Based on prior experience with tiered pricing and reseller program design, I could define layout and logic quickly, and completed the first usable version in a single focused 1–2 hour session.
 
-The tool was built in Excel with two tabs — one for new/prospective partners, one for existing partners — each driven by a shared structured data table (TblTiers) containing the tier thresholds, tier names, and commission rates.
+I built the workbook with two tabs backed by one shared structured data table (`TblTiers`) containing tier floors, tier names, and commission rates.
 
 The model included:
 
-* **New Partner tab:** Takes quantity and commitment term (monthly or annual) as inputs, determines the applicable tier using an XLOOKUP with approximate match against the tier floor values, and returns the estimated commission value. If the quantity doesn't meet the minimum threshold for the first tier, the tool returns "Minimum not met" rather than a misleading result.
-* **Existing Partner tab:** Adds a second layer of analysis — it calculates both the partner's current tier based on existing sales and their projected tier based on the proposed new commitment. This gap analysis lets a partner rep walk into a conversation knowing exactly what a deal would do to their status and their earnings in a single view.
-* **Error handling:** Both tabs use IFERROR to handle edge cases gracefully, and all rate and tier logic lives in the named structured table — meaning the program parameters could be updated in one place without touching any formulas.
+* A **New Partner** tab that accepted quantity and term (monthly vs annual), then determined tier using approximate-match `XLOOKUP` against tier floors and returned estimated commission.
+* A **minimum-threshold guardrail** that returned “Minimum not met” when input volume fell below the first tier.
+* An **Existing Partner** tab that calculated both current tier and projected tier based on expanded commitment, enabling side-by-side status/earnings comparison.
+* Shared tier/rate logic in `TblTiers` so program parameter updates could be made centrally without rewriting formulas.
+* `IFERROR` handling to keep outputs clear when users entered incomplete or edge-case inputs.
 
 ## Result
 
-* The tool was used as a live demonstration during my friend's internal presentation to leadership.
-* It gave the proposal immediate credibility — leadership could see exactly how the program would work in practice, not just in theory.
-* The company ultimately decided not to move forward with a partner program, and my friend left the organization shortly after.
-* The tool remained a mockup, but demonstrated the kind of partner program structure common across the software reseller and ISV space.
+* **Presentation utility:** The tool was used as a live demonstration in the internal leadership presentation.
+* **Decision clarity:** Leadership could see how tiers and payouts changed with inputs in real time, making the proposal far easier to evaluate.
+* **Outcome:** The company eventually chose not to launch the partner program, and the mockup did not advance to production.
+* **Transferable value:** Even as a concept artifact, it demonstrated a practical partner-program structure common in ISV/reseller channels.
 
 ## Reflection / Lessons Learned
 
-* **Domain knowledge is a blueprint.** Sixteen years in the reseller space means you internalize how these programs work — the tier logic, the incentive structures, the questions a partner rep actually needs answered. That domain knowledge meant the structure was clear before I opened Excel, even without having built one before.
-* **Visual tools make abstract ideas concrete.** A well-built model can do more for a proposal than a page of narrative. Showing leadership a number change in real time is more persuasive than describing how it would work.
-* **Design for the real questions, not the obvious one.** The new partner tab was the obvious ask. The existing partner tab — showing current vs. projected tier side by side — came from thinking about who would actually use the tool and what they'd need to know in a real partner conversation.
+* Deep **domain knowledge** accelerates design decisions, even under tight time constraints.
+* Interactive models often communicate strategy more effectively than narrative-only proposals.
+* Building for **actual user questions** (for example, “current vs projected tier”) creates higher practical value than solving only the obvious first scenario.
 
 ---
 
 ## Tech Summary (for quick scanning)
 
-* **Data:** Dummy/proposed values — no proprietary or sensitive data
+* **Data:** Dummy/proposed values only (no proprietary production data)
 * **Tools:** Excel
-* **Modeling:** Structured tables, named ranges, XLOOKUP with approximate match (-1), IFERROR handling
-* **Design:** Two-tab scenario structure, shared tier logic table, single-session build
+* **Modeling:** Structured tables, named ranges, approximate-match `XLOOKUP`, `IFERROR`
+* **Design:** Two-tab scenario model, centralized tier logic table, rapid single-session build
 
 ## Artifacts (Optional)
 
-No visuals are included to respect company confidentiality.
+No visuals are included currently. A sanitized demo workbook or wireframe screenshot may be added later.
 
 ## Anonymization Notes
 
-Product names have been replaced with generic placeholders. No real company, vendor, or partner data is included.
+All identifying product/company references have been generalized. No real partner, customer, or financial data is included.
