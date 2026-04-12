@@ -58,10 +58,11 @@ Both tabs use IFERROR to handle edge cases gracefully, and all rate and tier log
 * **Modeling:** Structured tables, named ranges, `XLOOKUP` with approximate-match, `IFERROR` handeling
 * **Design:** Two-tab scenario structure, shared tier logic table, single-session build
 
-## Artifacts (Optional)
+## Artifacts
 
-No visuals are included currently. A sanitized demo workbook or wireframe screenshot may be added later.
+![Partner Commission Tool - Existing Partner tab](/data/case-studies/PartnerCommTool/PCTool-Existing.png)
+
+![Partner Commission Tool - New Partner tab](/data/case-studies/PartnerCommTool/PCTool-New.png)
 
 ## Anonymization Notes
-
 Product names have been replaced with generic placeholders. No real company, vendor, or partner data is included.
