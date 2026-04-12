@@ -38,5 +38,11 @@ Tools: Excel
 Modeling: Structured tables, named ranges, XLOOKUP with approximate match (-1), IFERROR handling
 Design: Two-tab scenario structure, shared tier logic table, single-session build
 
+Artifacts
+
+![Partner Commission Tool - Existing Partner tab]({{ '/data/case-studies/PartnerCommTool/PCTool-Existing.png' | relative_url }})
+
+![Partner Commission Tool - New Partner tab]({{ '/data/case-studies/PartnerCommTool/PCTool-New.png' | relative_url }})
+
 Anonymization Notes
 Product names have been replaced with generic placeholders. No real company, vendor, or partner data is included.
