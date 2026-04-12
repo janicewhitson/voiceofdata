@@ -82,4 +82,5 @@ This portfolio is a mix of structured projects and working examples—some are f
 
 # Projects
 
-- [Renewals Reporting — SOAR Case Study]({{ '/data/case-studies/renewals-reporting/' | relative_url }})
+- [Renewals Reporting]({{ '/data/case-studies/renewals-reporting/' | relative_url }})
+- [Partner Commission Tool]({{ '/data/case-studies/PartnerCommTool/' | relative_url }})
