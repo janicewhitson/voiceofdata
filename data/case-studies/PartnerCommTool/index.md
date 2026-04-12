@@ -60,9 +60,9 @@ Both tabs use IFERROR to handle edge cases gracefully, and all rate and tier log
 
 ## Artifacts
 
-![Partner Commission Tool - Existing Partner tab](/data/case-studies/PartnerCommTool/PCTool-Existing.png)
+![Partner Commission Tool - Existing Partner tab]({{ '/data/case-studies/PartnerCommTool/PCTool-Existing.png' | relative_url }})
 
-![Partner Commission Tool - New Partner tab](/data/case-studies/PartnerCommTool/PCTool-New.png)
+![Partner Commission Tool - New Partner tab]({{ '/data/case-studies/PartnerCommTool/PCTool-New.png' | relative_url }})
 
 ## Anonymization Notes
 Product names have been replaced with generic placeholders. No real company, vendor, or partner data is included.
