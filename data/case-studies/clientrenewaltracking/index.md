@@ -16,3 +16,16 @@ Before each renewal submission, I sent the Account Executive a summary. Once the
 The tracker caught every over-ordering attempt before submission, eliminating rejected orders and the downstream rework for all three parties. It also gave the AE concrete data on a client relationship she had been managing without full context — while modest in the context of the publisher's overall volume, this client represented a significant portion of the Account Executive's own book of business — context she hadn't had visibility into before..
 ## The Rebuild
 This portfolio version was reconstructed from memory using anonymized dummy data. The structure, formulas, and logic reflect the original file. The Excel version uses structured tables, dynamic cross-sheet COUNTIFS and FILTER formulas, and a tab-name extraction approach to keep each year's calculations self-contained. 
+
+## Screenshots
+Renewal Summary
+
+![2024 Renewal Summary]({{ '/data/case-studies/Clientrenewaltracking/CLT-2024-Summary.png' | relative_url }})
+
+Multiple orders by division
+
+![2024 Orders]({{ '/data/case-studies/Clientrenewaltracking/CLT-2024-Orders.png' | relative_url }})
+
+Formula for Assigned/Open
+
+![Assigned/Open Formula]({{ '/data/case-studies/Clientrenewaltracking/CLT-Formula.png' | relative_url }})
