@@ -20,12 +20,12 @@ This portfolio version was reconstructed from memory using anonymized dummy data
 ## Screenshots
 Renewal Summary
 
-![2024 Renewal Summary]({{ '/data/case-studies/Clientrenewaltracking/CLT-2024-Summary.png' | relative_url }})
+![2024 Renewal Summary]({{ '/data/case-studies/clientrenewaltracking/CLT-2024-Summary.png' | relative_url }})
 
 Multiple orders by division
 
-![2024 Orders]({{ '/data/case-studies/Clientrenewaltracking/CLT-2024-Orders.png' | relative_url }})
+![2024 Orders]({{ '/data/case-studies/clientrenewaltracking/CLT-2024-Orders.png' | relative_url }})
 
 Formula for Assigned/Open
 
-![Assigned/Open Formula]({{ '/data/case-studies/Clientrenewaltracking/CLT-Formula.png' | relative_url }})
+![Assigned/Open Formula]({{ '/data/case-studies/clientrenewaltracking/CLT-Formula.png' | relative_url }})
