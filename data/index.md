@@ -84,3 +84,4 @@ This portfolio is a mix of structured projects and working examples—some are f
 
 - [Renewals Reporting]({{ '/data/case-studies/renewals-reporting/' | relative_url }})
 - [Partner Commission Tool]({{ '/data/case-studies/PartnerCommTool/' | relative_url }})
+- [Client Renewal Tracker]({{ '/data/case-studies/clientrenewaltracking/' | relative_url }})
