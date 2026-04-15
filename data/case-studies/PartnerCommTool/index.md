@@ -6,7 +6,7 @@
 
 > **Working title:** Partner Commission Modeling Tool — Concept & Mockup
 >
-> **Role:** Independent — built as a favor for a friend
+> **Role:** Independent — built as a favour for a friend
 >
 > **Timeline:** ~1–2 hours, single session
 
@@ -55,7 +55,7 @@ Both tabs use IFERROR to handle edge cases gracefully, and all rate and tier log
 
 * **Data:** Generic values only (no proprietary production data)
 * **Tools:** Excel
-* **Modeling:** Structured tables, named ranges, `XLOOKUP` with approximate-match, `IFERROR` handeling
+* **Modeling:** Structured tables, named ranges, `XLOOKUP` with approximate-match, `IFERROR` handling
 * **Design:** Two-tab scenario structure, shared tier logic table, single-session build
 
 ## Artifacts
