@@ -112,3 +112,5 @@ Ops staff had no view of their own renewals (the company portal was built around
     <p>A written proposal for a partner program isn't the same as showing leadership what a partner would actually earn. Built in a single session to make an abstract idea tangible and interactive.</p>
   </a>
 </div>
+
+<div id="projects-end" aria-hidden="true"></div>
