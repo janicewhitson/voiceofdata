@@ -78,3 +78,8 @@ No visuals are included to respect company confidentiality. A generic demo or la
 ## Anonymization Notes
 
 To maintain confidentiality, no original data or screenshots are included. Any future demo versions will use fully synthetic data modeled on public sources.
+
+
+<a class="resume-button" href="{{ '/data/#projects-end' | relative_url }}" aria-label="Back to Projects">
+  <span>Back to Projects </span>
+</a>
