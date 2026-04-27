@@ -14,7 +14,7 @@
 
 ## Situation
 
-At the time, our organization tracked renewals through a central **renewals portal** that was configured around the **Account Executive (AE)** as the owner of record. I was working on the **Software Licensing Specialists (SLS)** team—later evolving into **Client Operations Specialists (COS)**—and had been hired as a **Senior SLS** with ~12 years of licensing experience.
+At the time, our organization tracked renewals through a central **renewals portal** that was configured around the **Account Executive (AE)** as the owner of record. I was working on the **Software Licensing Specialists (SLS)** team—later evolving into **Client Operations Specialists (COS)**.
 
 Renewals were business-critical, but **operational staff (Support/COS)** had no consolidated place to view the renewals they were responsible for supporting. Visibility and accountability skewed to AEs, even though Operations did a substantial portion of the work required to land the renewal.
 
