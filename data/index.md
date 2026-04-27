@@ -90,13 +90,23 @@ This portfolio is a mix of structured projects and working examples—some are f
   </a>
 
   <a class="project-card" href="{{ '/data/case-studies/clientrenewaltracking/' | relative_url }}">
-    <div class="project-card-image-placeholder" aria-hidden="true">Project Image</div>
+    <img
+      class="project-card-image"
+      src="{{ '/data/case-studies/clientrenewaltracking/CLT-2024-Summary.png' | relative_url }}"
+      alt="Client Renewal Tracker summary dashboard screenshot"
+      loading="lazy"
+    />
     <h3>Client Renewal Tracker</h3>
     <p>A client with ~500 Adobe subscriptions kept submitting renewal POs that didn't match their entitlements. This tracker caught every discrepancy before submission — and gave the AE visibility into a client relationship she hadn't had full context on.</p>
   </a>
   
   <a class="project-card" href="{{ '/data/case-studies/PartnerCommTool/' | relative_url }}">
-    <div class="project-card-image-placeholder" aria-hidden="true">Project Image</div>
+    <img
+      class="project-card-image"
+      src="{{ '/data/case-studies/PartnerCommTool/PCTool-Existing.png' | relative_url }}"
+      alt="Partner Commission Tool modeling screenshot"
+      loading="lazy"
+    />
     <h3>Partner Commission Tool</h3>
     <p>A written proposal for a partner program isn't the same as showing leadership what a partner would actually earn. Built in a single session to make an abstract idea tangible and interactive.</p>
   </a>
