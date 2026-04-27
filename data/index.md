@@ -94,8 +94,7 @@ This portfolio is a mix of structured projects and working examples—some are f
     <h3>Client Renewal Tracker</h3>
     <p>A client with ~500 Adobe subscriptions kept submitting renewal POs that didn't match their entitlements. This tracker caught every discrepancy before submission — and gave the AE visibility into a client relationship she hadn't had full context on.</p>
   </a>
-</div>
-
+  
   <a class="project-card" href="{{ '/data/case-studies/PartnerCommTool/' | relative_url }}">
     <div class="project-card-image-placeholder" aria-hidden="true">Project Image</div>
     <h3>Partner Commission Tool</h3>
