@@ -84,7 +84,7 @@ This portfolio is a mix of structured projects and working examples—some are f
 
 <div class="project-cards">
   <a class="project-card" href="{{ '/data/case-studies/renewals-reporting/' | relative_url }}">
-    <div class="project-card-image-placeholder" aria-hidden="true">Project Image</div>
+    <div class="project-card-image-placeholder" aria-hidden="true">Coming Soon</div>
     <h3>Internal Renewals Reporting</h3>
     <p>
 Ops staff had no view of their own renewals (the company portal was built around AEs) resulting in several report runs to get a full picture. Started as a personal project, adopted by the full team within six weeks, and ended up in Director meetings.</p>
