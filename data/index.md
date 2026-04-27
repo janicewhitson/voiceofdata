@@ -85,24 +85,19 @@ This portfolio is a mix of structured projects and working examples—some are f
 <div class="project-cards">
   <a class="project-card" href="{{ '/data/case-studies/renewals-reporting/' | relative_url }}">
     <div class="project-card-image-placeholder" aria-hidden="true">Project Image</div>
-    <h3>Renewals Reporting</h3>
-    <p>Executive-ready reporting focused on renewal health, forecast visibility, and at-risk account trends.</p>
-  </a>
-
-  <a class="project-card" href="{{ '/data/case-studies/PartnerCommTool/' | relative_url }}">
-    <div class="project-card-image-placeholder" aria-hidden="true">Project Image</div>
-    <h3>Partner Commission Tool</h3>
-    <p>A commission support dashboard that improves payout transparency and speeds partner-related reconciliation.</p>
+    <h3>Internal Renewals Reporting</h3>
+    <p>The renewals portal showed AEs. It didn't show the ops team doing the work. Built in Excel, this dashboard gave Support/COS staff their first consolidated view of their own book — and ended up in Director meetings.</p>
   </a>
 
   <a class="project-card" href="{{ '/data/case-studies/clientrenewaltracking/' | relative_url }}">
-    <img
-      class="project-card-image"
-      src="{{ '/data/case-studies/clientrenewaltracking/CLT-2024-Summary.png' | relative_url }}"
-      alt="Client Renewal Tracker summary preview"
-      loading="lazy"
-    />
+    <div class="project-card-image-placeholder" aria-hidden="true">Project Image</div>
     <h3>Client Renewal Tracker</h3>
-    <p>A streamlined tracker for renewal milestones, ownership clarity, and follow-up accountability across accounts.</p>
+    <p>A client with ~500 Adobe subscriptions kept submitting renewal POs that didn't match their entitlements. This tracker caught every discrepancy before submission — and gave the AE visibility into a client relationship she hadn't had full context on.</p>
+  </a>
+  
+  <a class="project-card" href="{{ '/data/case-studies/PartnerCommTool/' | relative_url }}">
+    <div class="project-card-image-placeholder" aria-hidden="true">Project Image</div>
+    <h3>Partner Commission Tool</h3>
+    <p>A written proposal for a partner program isn't the same as showing leadership what a partner would actually earn. Built in a single session to make an abstract idea tangible and interactive.</p>
   </a>
 </div>
