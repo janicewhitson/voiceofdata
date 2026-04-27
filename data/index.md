@@ -82,6 +82,22 @@ This portfolio is a mix of structured projects and working examples—some are f
 
 # Projects
 
-- [Renewals Reporting]({{ '/data/case-studies/renewals-reporting/' | relative_url }})
-- [Partner Commission Tool]({{ '/data/case-studies/PartnerCommTool/' | relative_url }})
-- [Client Renewal Tracker]({{ '/data/case-studies/clientrenewaltracking/' | relative_url }})
+<div class="project-cards">
+  <a class="project-card" href="{{ '/data/case-studies/renewals-reporting/' | relative_url }}">
+    <div class="project-card-image-placeholder" aria-hidden="true">Project Image</div>
+    <h3>Renewals Reporting</h3>
+    <p>Executive-ready reporting focused on renewal health, forecast visibility, and at-risk account trends.</p>
+  </a>
+
+  <a class="project-card" href="{{ '/data/case-studies/PartnerCommTool/' | relative_url }}">
+    <div class="project-card-image-placeholder" aria-hidden="true">Project Image</div>
+    <h3>Partner Commission Tool</h3>
+    <p>A commission support dashboard that improves payout transparency and speeds partner-related reconciliation.</p>
+  </a>
+
+  <a class="project-card" href="{{ '/data/case-studies/clientrenewaltracking/' | relative_url }}">
+    <div class="project-card-image-placeholder" aria-hidden="true">Project Image</div>
+    <h3>Client Renewal Tracker</h3>
+    <p>A streamlined tracker for renewal milestones, ownership clarity, and follow-up accountability across accounts.</p>
+  </a>
+</div>
