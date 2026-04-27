@@ -2,7 +2,7 @@
 
 ---
 
-# Customer Renewal Tracker
+# Client Renewal Tracker
 > **Role:** Senior Software Licensing Specialist (later part of Client Operations Specialists)
 > 
 > **Tools:** Excel
