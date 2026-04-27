@@ -101,3 +101,4 @@ This portfolio is a mix of structured projects and working examples—some are f
     <h3>Partner Commission Tool</h3>
     <p>A written proposal for a partner program isn't the same as showing leadership what a partner would actually earn. Built in a single session to make an abstract idea tangible and interactive.</p>
   </a>
+</div>
