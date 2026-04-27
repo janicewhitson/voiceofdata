@@ -86,7 +86,8 @@ This portfolio is a mix of structured projects and working examples—some are f
   <a class="project-card" href="{{ '/data/case-studies/renewals-reporting/' | relative_url }}">
     <div class="project-card-image-placeholder" aria-hidden="true">Project Image</div>
     <h3>Internal Renewals Reporting</h3>
-    <p>The renewals portal showed AEs. It didn't show the ops team doing the work. Built in Excel, this dashboard gave Support/COS staff their first consolidated view of their own book — and ended up in Director meetings.</p>
+    <p>
+Ops staff had no view of their own renewals (the company portal was built around AEs) resulting in several report runs to get a full picture. Started as a personal project, adopted by the full team within six weeks, and ended up in Director meetings.</p>
   </a>
 
   <a class="project-card" href="{{ '/data/case-studies/clientrenewaltracking/' | relative_url }}">
@@ -97,7 +98,7 @@ This portfolio is a mix of structured projects and working examples—some are f
       loading="lazy"
     />
     <h3>Client Renewal Tracker</h3>
-    <p>A client with ~500 Adobe subscriptions kept submitting renewal POs that didn't match their entitlements. This tracker caught every discrepancy before submission — and gave the AE visibility into a client relationship she hadn't had full context on.</p>
+    <p>A client with ~500 Adobe subscriptions kept submitting renewal POs that didn't match their entitlements. Caught every discrepancy before submission, and surfaced client context the AE didn't have.</p>
   </a>
   
   <a class="project-card" href="{{ '/data/case-studies/PartnerCommTool/' | relative_url }}">
