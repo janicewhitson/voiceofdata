@@ -43,6 +43,7 @@ Final Report
 ![Report]({{ 'data/case-studies/WinDisk/WinDiskReport.png' | relative_url }})
 
 Some of the PowerQuery Code
+
 ![Code]({{ 'data/case-studies/WinDisk/WinDiskPQ.png' | relative_url }})
 
 
