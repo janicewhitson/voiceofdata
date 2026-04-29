@@ -31,3 +31,18 @@ Data: Sanitised client export data (server names retained, client identity remov
 Tools: Excel · Power Query (M)
 Transformation: Unpivot, metric-based grouping, pivot and null consolidation to restructure positional raw data into a clean one-row-per-disk output
 Design: Single data entry tab, user-controlled output count, auto-generated client-ready report, built for non-technical users
+
+## Tech Summary
+
+Raw Data
+
+![Raw Data]({{ 'data/case-studies/WinDisk/WinDiskRaw.png' | relative_url }})
+
+Final Report
+
+![Report]({{ 'data/case-studies/WinDisk/WinDiskReport.png' | relative_url }})
+
+Some of the PowerQuery Code
+![Code]({{ 'data/case-studies/WinDisk/WinDiskPQ.png' | relative_url }})
+
+
