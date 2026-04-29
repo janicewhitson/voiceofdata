@@ -9,7 +9,7 @@
 A Service Delivery Manager team was receiving raw system export data monthly and manually identifying high-utilisation disks across their client base — a process their team lead described as taking a "ridiculous number of hours" each month.
 
 ## The Solution
-The ask came informally: the team lead's manager had heard I was good with Excel and suggested he reach out. A few hours of trial and error later, the team had a self-service tool. Paste the raw export into the data tab, enter the number of results you want, and a formatted client-ready report generates automatically — plain-English sentences listing each at-risk disk by server, disk ID, utilisation percentage, and remaining capacity.
+The ask came informally: the team lead's manager had heard I was good with Excel and suggested he reach out. A few hours of trial and error later, the team had a self-service tool. Paste the raw export into the data tab, enter the number of results you want on the Report tab, and the formatted client-ready report generates automatically — plain-English sentences listing each at-risk disk by server, disk ID, utilization percentage, and remaining capacity.
 
 ## The Result
 The tool was rolled out to a team of five and required no ongoing support or rework.
@@ -21,5 +21,7 @@ Revisiting it in 2026 for this portfolio, I rebuilt the backend significantly �
 
 ## Tech Summary
 
-Tools & Techniques
-Power Query (M) — unpivot, metric-based grouping, pivot and null consolidation to restructure positional raw data into a clean one-row-per-disk output. Excel FILTER for dynamic report generation against the transformed table.
+Data: Sanitised client export data (server names retained, client identity removed)
+Tools: Excel · Power Query (M)
+Transformation: Unpivot, metric-based grouping, pivot and null consolidation to restructure positional raw data into a clean one-row-per-disk output
+Design: Single data entry tab, user-controlled output count, auto-generated client-ready report, built for non-technical users
