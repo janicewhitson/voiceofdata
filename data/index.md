@@ -1,6 +1,6 @@
 ---
 layout: data
-title: Data
+title: Janice Whitson - Data Analyst
 ---
 <div class="about-me-header">
   <h1>About Me</h1>
