@@ -21,7 +21,7 @@ The ask came informally: the team lead's manager had heard I was good with Excel
 The tool was rolled out to a team of five and required no ongoing support or rework.
 
 ## The Rebuild
-Revisiting it in 2026 for this portfolio, I rebuilt the backend significantly — the Power Query transformation was always part of the tool, but the original version still relied on a brittle chain of helper columns and ROW()-dependent lookups in Excel to navigate the data. The rewrite pushed that logic into PQ instead, outputting one clean row per disk, pre-sorted by utilisation. The report tab now pulls directly from that output with a single formula per line. Fewer moving parts, easier to maintain, same output.
+Revisiting it in 2026 for this portfolio, I rebuilt the backend significantly — the Power Query transformation was always part of the tool, but the original version still relied on a brittle chain of helper columns and ROW()-dependent lookups in Excel to navigate the data. The rewrite pushed that logic into PQ instead, outputting one clean row per disk, pre-sorted by utilisation. The report tab now pulls directly from that output with a single formula. Fewer moving parts, easier to maintain, same output.
 
 ---
 
