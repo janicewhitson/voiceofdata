@@ -28,11 +28,14 @@ Revisiting it in 2026 for this portfolio, I rebuilt the backend significantly â€
 ## Tech Summary
 
 Data: Sanitised client export data (server names retained, client identity removed)
+
 Tools: Excel Â· Power Query (M)
+
 Transformation: Unpivot, metric-based grouping, pivot and null consolidation to restructure positional raw data into a clean one-row-per-disk output
+
 Design: Single data entry tab, user-controlled output count, auto-generated client-ready report, built for non-technical users
 
-## Tech Summary
+## Screenshots
 
 Raw Data
 
