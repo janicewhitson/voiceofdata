@@ -3,8 +3,6 @@ layout: data
 title: Projects
 ---
 
-# Projects
-
 ## Featured Project
 
 <div class="project-cards project-cards-featured">
@@ -39,8 +37,6 @@ title: Projects
         <h3>Internal Renewals Reporting</h3>
         <div class="project-tools" aria-label="Tools used">
           <span class="expertise-tag project-tool-pill">Excel</span>
-          <span class="expertise-tag project-tool-pill">Power BI</span>
-          <span class="expertise-tag project-tool-pill">SQL</span>
         </div>
       </div>
       <p>Ops staff had no view of their own renewals (the company portal was built around AEs) resulting in several report runs to get a full picture. Started as a personal project, adopted by the full team within six weeks, and ended up in Director meetings.</p>
@@ -59,8 +55,7 @@ title: Projects
         <h3>Windows Disk Utilisation</h3>
         <div class="project-tools" aria-label="Tools used">
           <span class="expertise-tag project-tool-pill">Excel</span>
-          <span class="expertise-tag project-tool-pill">Power BI</span>
-          <span class="expertise-tag project-tool-pill">SQL</span>
+          <span class="expertise-tag project-tool-pill">Power Query</span>
         </div>
       </div>
       <p>Automated and standardised weekly infrastructure reporting by replacing manually prepared outputs with a validated, reusable process. Combined multiple data sources into a single reporting flow that reduced preparation effort and improved consistency.</p>
