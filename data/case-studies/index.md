@@ -3,7 +3,7 @@ layout: data
 title: Projects
 ---
 
-## Featured Project
+# Featured Project
 
 <div class="project-cards project-cards-featured">
   <a class="project-card project-card-horizontal project-card-featured" href="{{ '/data/case-studies/clientrenewaltracking/' | relative_url }}">
