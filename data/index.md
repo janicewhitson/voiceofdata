@@ -114,3 +114,7 @@ Ops staff had no view of their own renewals (the company portal was built around
 </div>
 
 <div id="projects-end" aria-hidden="true"></div>
+
+<a class="resume-button" href="{{ 'data/case-studies/index.md' | relative_url }}" aria-label="More Projects">
+  <span>More Projects </span>
+</a>
