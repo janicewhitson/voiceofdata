@@ -101,15 +101,15 @@ Ops staff had no view of their own renewals (the company portal was built around
     <p>A client with ~500 Adobe subscriptions kept submitting renewal POs that didn't match their entitlements. Caught every discrepancy before submission, and surfaced client context the AE didn't have.</p>
   </a>
   
-  <a class="project-card" href="{{ '/data/case-studies/PartnerCommTool/' | relative_url }}">
+  <a class="project-card" href="{{ '/data/case-studies/WinDisk/' | relative_url }}">
     <img
       class="project-card-image"
-      src="{{ '/data/case-studies/PartnerCommTool/PCTool-Existing.png' | relative_url }}"
-      alt="Partner Commission Tool modeling screenshot"
+      src="{{ '/data/case-studies/PartnerCommTool/WinDiskReport.png' | relative_url }}"
+      alt="Windows Disk Utilisation Report screenshot"
       loading="lazy"
     />
-    <h3>Partner Commission Tool</h3>
-    <p>A written proposal for a partner program isn't the same as showing leadership what a partner would actually earn. Built in a single session to make an abstract idea tangible and interactive.</p>
+    <h3>Windows Disk Utilisation Report</h3>
+    <p>Monthly raw export, manually reviewed for high-utilisation disks across a client base. Automated end-to-end in Excel and Power Query — paste the data, set a threshold, get a print-ready report.</p>
   </a>
 </div>
 
