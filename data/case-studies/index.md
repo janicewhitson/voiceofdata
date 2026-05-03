@@ -27,6 +27,10 @@ title: Projects
   </a>
 </div>
 
+<hr class="project-section-divider" />
+
+## All Projects
+
 <div class="project-cards project-cards-list">
   <a class="project-card project-card-horizontal" href="{{ '/data/case-studies/renewals-reporting/' | relative_url }}">
     <div class="project-card-image-placeholder project-card-image-fixed" aria-hidden="true">Coming Soon</div>
