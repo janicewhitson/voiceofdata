@@ -312,6 +312,13 @@ a {
   grid-template-columns: 240px minmax(0, 1fr);
   gap: 1.1rem;
   box-shadow: 0 4px 14px rgba(28, 28, 26, 0.1);
+  border-left: 4px solid #4A6FA5;
+}
+
+.project-section-divider {
+  border: 0;
+  border-top: 1px solid var(--color-border);
+  margin: 1.5rem 0;
 }
 
 .project-card-image-featured {
