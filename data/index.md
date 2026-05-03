@@ -104,7 +104,7 @@ Ops staff had no view of their own renewals (the company portal was built around
   <a class="project-card" href="{{ '/data/case-studies/WinDisk/' | relative_url }}">
     <img
       class="project-card-image"
-      src="{{ '/data/case-studies/PartnerCommTool/WinDiskReport.png' | relative_url }}"
+      src="{{ '/data/case-studies/WinDisk/WinDiskReport.png' | relative_url }}"
       alt="Windows Disk Utilisation Report screenshot"
       loading="lazy"
     />
