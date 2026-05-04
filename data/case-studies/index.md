@@ -30,6 +30,7 @@ title: Projects
 ## Projects
 
 <div class="project-cards project-cards-list">
+  <a class="project-card project-card-horizontal" href="{{ ''data/case-studies/renewals-reporting/' | relative_url }}">
   <img
       class="project-card-image project-card-image-fixed"
       src="{{ 'data/case-studies/renewals-reporting/IntRenewalThumb.png' | relative_url }}"
