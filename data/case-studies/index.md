@@ -31,7 +31,7 @@ title: Projects
 
 <div class="project-cards project-cards-list">
   <img
-      class="project-card-image project-card-image-fixed project-card-image-featured"
+      class="project-card-image project-card-image-fixed"
       src="{{ 'data/case-studies/renewals-reporting/IntRenewalThumb.png' | relative_url }}"
       alt="Summary dashboard screenshot"
       loading="lazy"
