@@ -30,13 +30,18 @@ title: Projects
 ## Projects
 
 <div class="project-cards project-cards-list">
-  <a class="project-card project-card-horizontal" href="{{ '/data/case-studies/renewals-reporting/' | relative_url }}">
-    <div class="project-card-image-placeholder project-card-image-fixed" aria-hidden="true">Coming Soon</div>
+  <img
+      class="project-card-image project-card-image-fixed project-card-image-featured"
+      src="{{ 'data/case-studies/renewals-reporting/IntRenewalThumb.png' | relative_url }}"
+      alt="Summary dashboard screenshot"
+      loading="lazy"
+    />
     <div class="project-card-content">
       <div class="project-card-heading">
         <h3>Internal Renewals Reporting</h3>
         <div class="project-tools" aria-label="Tools used">
           <span class="expertise-tag project-tool-pill">Excel</span>
+          <span class="expertise-tag project-tool-pill">Power Query</span>
         </div>
       </div>
       <p>Ops staff had no view of their own renewals (the company portal was built around AEs) resulting in several report runs to get a full picture. Started as a personal project, adopted by the full team within six weeks, and ended up in Director meetings.</p>
