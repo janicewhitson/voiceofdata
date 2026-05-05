@@ -33,6 +33,6 @@ Formula for Assigned/Open
 
 ![Assigned/Open Formula]({{ '/data/case-studies/clientrenewaltracking/CLT-Formula.png' | relative_url }})
 
-<a class="resume-button" href="{{ '/data/#projects-end' | relative_url }}" aria-label="Back to Projects">
-  <span>Back to Projects </span>
+<a class="resume-button" href="{{ 'data/case-studies/' | relative_url }}" aria-label="Back to Projects">
+  <span>Back to Projects</span>
 </a>
