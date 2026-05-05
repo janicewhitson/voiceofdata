@@ -71,15 +71,24 @@ Unfortunately, not long after adoption, the **renewals portion of our job was tr
 * **Visuals:** Team dashboard layout, individual & subpages, custom navigation
 * **Distribution:** OneDrive shared file
 
-## Artifacts (Optional)
+## Screenshots 
+Software Team Dashboard Summary
 
-No visuals are included to respect company confidentiality. A generic demo or layout sketch with dummy data may be added later.
+![Team Dashboard Summary]({{ '/data/case-studies/renewals-reporting/IntRenewalTeamDash.png' | relative_url }})
+
+Person Dashboard Summary
+
+![Individual Dashboard Summary]({{ '/data/case-studies/renewals-reporting/IntRenewalMyDash.png' | relative_url }})
+
+Rep Breakdown
+
+![Rep Breakdown]({{ '/data/case-studies/renewals-reporting/IntRenewalRepSum.png' | relative_url }})
 
 ## Anonymization Notes
 
-To maintain confidentiality, no original data or screenshots are included. Any future demo versions will use fully synthetic data modeled on public sources.
+To maintain confidentiality, no original data or screenshots are included. File was rebuilt in 2026 with dummy data.
 
 
-<a class="resume-button" href="{{ '/data/#projects-end' | relative_url }}" aria-label="Back to Projects">
-  <span>Back to Projects </span>
+<a class="resume-button" href="{{ 'data/case-studies/' | relative_url }}" aria-label="Back to Projects">
+  <span>Back to Projects</span>
 </a>
