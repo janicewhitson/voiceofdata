@@ -50,3 +50,6 @@ Some of the PowerQuery Code
 ![Code]({{ 'data/case-studies/WinDisk/WinDiskPQ.png' | relative_url }})
 
 
+<a class="resume-button" href="{{ 'data/case-studies/' | relative_url }}" aria-label="Back to Projects">
+  <span>Back to Projects</span>
+</a>
