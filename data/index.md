@@ -85,7 +85,7 @@ This portfolio is a mix of structured projects and working examples—some are f
 <div class="project-cards">
   <a class="project-card" href="{{ '/data/case-studies/renewals-reporting/' | relative_url }}">
     <img
-      class="project-card-image"
+      class="project-card-image project-card-image-preview"
       src="{{ '/data/case-studies/renewals-reporting/IntRenewalThumb.png' | relative_url }}"
       alt="Renewal Summary dashboard screenshot"
       loading="lazy"
@@ -97,7 +97,7 @@ Ops staff had no view of their own renewals (the company portal was built around
 
   <a class="project-card" href="{{ '/data/case-studies/clientrenewaltracking/' | relative_url }}">
     <img
-      class="project-card-image"
+      class="project-card-image project-card-image-preview"
       src="{{ '/data/case-studies/clientrenewaltracking/CLT-2024-Summary.png' | relative_url }}"
       alt="Client Renewal Tracker summary dashboard screenshot"
       loading="lazy"
@@ -108,7 +108,7 @@ Ops staff had no view of their own renewals (the company portal was built around
   
   <a class="project-card" href="{{ '/data/case-studies/WinDisk/' | relative_url }}">
     <img
-      class="project-card-image"
+      class="project-card-image project-card-image-preview"
       src="{{ '/data/case-studies/WinDisk/WinDiskReport.png' | relative_url }}"
       alt="Windows Disk Utilisation Report screenshot"
       loading="lazy"
