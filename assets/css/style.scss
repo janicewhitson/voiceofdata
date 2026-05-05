@@ -244,6 +244,16 @@ a {
   background: var(--color-bg);
 }
 
+.project-card-image-preview {
+  aspect-ratio: 16 / 9;
+  height: auto;
+  min-height: 0;
+  max-height: none;
+  padding: 0.35rem;
+  object-fit: contain;
+  object-position: center;
+}
+
 .project-card h3 {
   margin: 0 0 0.35rem;
   font-size: 1.1rem;
