@@ -74,15 +74,27 @@ Unfortunately, not long after adoption, the **renewals portion of our job was tr
 ## Screenshots 
 Software Team Dashboard Summary
 
-![Team Dashboard Summary]({{ '/data/case-studies/renewals-reporting/IntRenewalTeamDash.png' | relative_url }})
+<img
+  src="{{ '/data/case-studies/renewals-reporting/IntRenewalTeamDash.png' | relative_url }}"
+  alt="Team Dashboard Summary"
+  style="width: min(100%, 1100px); height: auto;"
+/>
 
 Person Dashboard Summary
 
-![Individual Dashboard Summary]({{ '/data/case-studies/renewals-reporting/IntRenewalMyDash.png' | relative_url }})
+<img
+  src="{{ '/data/case-studies/renewals-reporting/IntRenewalMyDash.png' | relative_url }}"
+  alt="Individual Dashboard Summary"
+  style="width: min(100%, 980px); height: auto;"
+/>
 
 Rep Breakdown
 
-![Rep Breakdown]({{ '/data/case-studies/renewals-reporting/IntRenewalRepSum.png' | relative_url }})
+<img
+  src="{{ '/data/case-studies/renewals-reporting/IntRenewalRepSum.png' | relative_url }}"
+  alt="Rep Breakdown"
+  style="width: min(100%, 920px); height: auto;"
+/>
 
 ## Anonymization Notes
 
