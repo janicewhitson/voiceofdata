@@ -9,7 +9,7 @@ title: Projects
   <a class="project-card project-card-horizontal project-card-featured" href="{{ '/data/case-studies/clientrenewaltracking/' | relative_url }}">
     <img
       class="project-card-image project-card-image-fixed project-card-image-featured"
-      src="{{ '/data/case-studies/clientrenewaltracking/CLT-2024-Summary.png' | relative_url }}"
+      src="{{ '/data/case-studies/clientrenewaltracking/CLT-2024-Thumb.png' | relative_url }}"
       alt="Client Renewal Tracker summary dashboard screenshot"
       loading="lazy"
     />
