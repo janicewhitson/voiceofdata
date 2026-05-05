@@ -70,7 +70,6 @@ New/Potential Partner
 ## Anonymization Notes
 Product names have been replaced with generic placeholders. No real company, vendor, or partner data is included.
 
-
-<a class="resume-button" href="{{ '/data/#projects-end' | relative_url }}" aria-label="Back to Projects">
-  <span>Back to Projects </span>
+<a class="resume-button" href="{{ 'data/case-studies/' | relative_url }}" aria-label="Back to Projects">
+  <span>Back to Projects</span>
 </a>
