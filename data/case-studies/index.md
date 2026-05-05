@@ -7,9 +7,9 @@ title: Projects
 
 <div class="project-cards project-cards-featured">
   <a class="project-card project-card-horizontal project-card-featured" href="{{ '/data/case-studies/clientrenewaltracking/' | relative_url }}">
-    <img
-      class="project-card-image project-card-image-fixed project-card-image-featured"
-      src="{{ '/data/case-studies/clientrenewaltracking/CLT-2024-Thumb.png' | relative_url }}"
+     <img
+      class="project-card-image project-card-image-preview"
+      src="{{ '/data/case-studies/clientrenewaltracking/CLT-2024-Summary.png' | relative_url }}"
       alt="Client Renewal Tracker summary dashboard screenshot"
       loading="lazy"
     />
@@ -32,7 +32,7 @@ title: Projects
 <div class="project-cards project-cards-list">
   <a class="project-card project-card-horizontal" href="{{ 'data/case-studies/renewals-reporting/' | relative_url }}">
   <img
-      class="project-card-image project-card-image-fixed"
+      class="project-card-image project-card-image-preview"
       src="{{ 'data/case-studies/renewals-reporting/IntRenewalThumb.png' | relative_url }}"
       alt="Summary dashboard screenshot"
       loading="lazy"
@@ -51,7 +51,7 @@ title: Projects
 
   <a class="project-card project-card-horizontal" href="{{ '/data/case-studies/WinDisk/' | relative_url }}">
     <img
-      class="project-card-image project-card-image-fixed"
+      class="project-card-image project-card-image-preview"
       src="{{ '/data/case-studies/WinDisk/WinDiskReport.png' | relative_url }}"
       alt="Windows Disk Utilisation report screenshot"
       loading="lazy"
@@ -70,7 +70,7 @@ title: Projects
 
   <a class="project-card project-card-horizontal" href="{{ '/data/case-studies/PartnerCommTool/' | relative_url }}">
     <img
-      class="project-card-image project-card-image-fixed"
+      class="project-card-image project-card-image-preview"
       src="{{ '/data/case-studies/PartnerCommTool/PCTool-Existing.png' | relative_url }}"
       alt="Partner Commission Tool modeling screenshot"
       loading="lazy"
