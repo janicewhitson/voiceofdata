@@ -6,31 +6,7 @@ title: Projects
 # Featured Project
 
 <div class="project-cards project-cards-featured">
-  <a class="project-card project-card-horizontal project-card-featured" href="{{ '/data/case-studies/clientrenewaltracking/' | relative_url }}">
-     <img
-      class="project-card-image project-card-image-preview"
-      src="{{ '/data/case-studies/clientrenewaltracking/CLT-2024-Summary.png' | relative_url }}"
-      alt="Client Renewal Tracker summary dashboard screenshot"
-      loading="lazy"
-    />
-    <div class="project-card-content">
-      <div class="project-card-heading">
-        <h3>Client Renewal Tracker</h3>
-        <div class="project-tools" aria-label="Tools used">
-          <span class="expertise-tag project-tool-pill">Excel</span>
-        </div>
-      </div>
-      <p>A client with ~500 Adobe subscriptions kept submitting renewal POs that didn't match their entitlements. Caught every discrepancy before submission, and surfaced client context the AE didn't have.</p>
-    </div>
-  </a>
-</div>
-
-<hr class="project-section-divider" />
-
-## Projects
-
-<div class="project-cards project-cards-list">
-  <a class="project-card project-card-horizontal" href="{{ 'data/case-studies/renewals-reporting/' | relative_url }}">
+  <a class="project-card project-card-horizontal project-card-featured" href="{{ 'data/case-studies/renewals-reporting/' | relative_url }}">
   <img
       class="project-card-image project-card-image-preview"
       src="{{ 'data/case-studies/renewals-reporting/IntRenewalThumb.png' | relative_url }}"
@@ -46,6 +22,30 @@ title: Projects
         </div>
       </div>
       <p>Ops staff had no view of their own renewals (the company portal was built around AEs) resulting in several report runs to get a full picture. Started as a personal project, adopted by the full team within six weeks, and ended up in Director meetings.</p>
+    </div>
+  </a>
+</div>
+
+<hr class="project-section-divider" />
+
+## Projects
+
+<div class="project-cards project-cards-list">
+  <a class="project-card project-card-horizontal" href="{{ '/data/case-studies/clientrenewaltracking/' | relative_url }}">
+     <img
+      class="project-card-image project-card-image-preview"
+      src="{{ '/data/case-studies/clientrenewaltracking/CLT-2024-Summary.png' | relative_url }}"
+      alt="Client Renewal Tracker summary dashboard screenshot"
+      loading="lazy"
+    />
+    <div class="project-card-content">
+      <div class="project-card-heading">
+        <h3>Client Renewal Tracker</h3>
+        <div class="project-tools" aria-label="Tools used">
+          <span class="expertise-tag project-tool-pill">Excel</span>
+        </div>
+      </div>
+      <p>A client with ~500 Adobe subscriptions kept submitting renewal POs that didn't match their entitlements. Caught every discrepancy before submission, and surfaced client context the AE didn't have.</p>
     </div>
   </a>
 
