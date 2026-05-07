@@ -4,6 +4,11 @@
 
 # Windows Disk Utilisation Report Automation
 
+<div class="project-tools case-study-tools" aria-label="Tools used">
+  <span class="expertise-tag project-tool-pill">Excel</span>
+  <span class="expertise-tag project-tool-pill">Power Query</span>
+</div>
+
 > **Role:** Business Intelligence Analyst
 > 
 > **Tools:** Excel · Power Query (M)
