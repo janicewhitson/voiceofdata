@@ -4,6 +4,10 @@
 
 # Renewals Reporting — SOAR Case Study
 
+<div class="project-tools case-study-tools" aria-label="Tools used">
+  <span class="expertise-tag project-tool-pill">Excel</span>
+</div>
+
 > **Working title:** From AE-only visibility to team-wide renewal accountability
 >
 > **Role:** Senior Software Licensing Specialist (later part of Client Operations Specialists)
