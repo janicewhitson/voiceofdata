@@ -4,6 +4,10 @@
 
 # Partner Commission Modeling Tool
 
+<div class="project-tools case-study-tools" aria-label="Tools used">
+  <span class="expertise-tag project-tool-pill">Excel</span>
+</div>
+
 > **Working title:** Partner Commission Modeling Tool — Concept & Mockup
 >
 > **Role:** Independent — built as a favour for a friend
