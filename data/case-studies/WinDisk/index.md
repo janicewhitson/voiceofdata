@@ -9,8 +9,7 @@
   <span class="expertise-tag project-tool-pill">Power Query</span>
 </div>
 
-> **Tools:** Excel · Power Query (M)
-> 
+
 ---
 
 ## The Problem
