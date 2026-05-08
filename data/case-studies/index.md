@@ -6,7 +6,36 @@ title: Projects
 # Featured Project
 
 <div class="project-cards project-cards-featured">
-  <a class="project-card project-card-horizontal project-card-featured" href="{{ 'data/case-studies/renewals-reporting/' | relative_url }}">
+  <a class="project-card project-card-horizontal project-card-featured" href="{{ 'data/case-studies/servicenow-itsm/' | relative_url }}">
+  <img
+      class="project-card-image project-card-image-preview"
+      src="{{ 'data/case-studies/servicenow-itsm/SN-ITSM-IncidentOverview.png' | relative_url }}"
+      alt="Incident Overview"
+      loading="lazy"
+    />
+    <div class="project-card-content">
+      <div class="project-card-heading">
+        <h3>ITSM Client Facing Reporting</h3>
+        <div class="project-tools" aria-label="Tools used">
+              <span class="expertise-tag project-tool-pill">Power BI</span>
+              <span class="expertise-tag project-tool-pill">DAX</span>
+              <span class="expertise-tag project-tool-pill">Bookmarks</span>
+              <span class="expertise-tag project-tool-pill">Dynamic titles</span>
+              <span class="expertise-tag project-tool-pill">ITSM</span>
+              <span class="expertise-tag project-tool-pill">ServiceNow</span>
+        </div>
+      </div>
+      <p>A Power BI report built on ServiceNow data — inherited for a departed developer mid-project and rebuilt around what the managed services team actually referenced in client meetings. Performance-heavy custom visual out, native components in, and a pitchable v1 delivered in under four days.</p>
+    </div>
+  </a>
+</div>
+
+<hr class="project-section-divider" />
+
+## Projects
+
+<div class="project-cards project-cards-list">
+  <a class="project-card project-card-horizontal" href="{{ 'data/case-studies/renewals-reporting/' | relative_url }}">
   <img
       class="project-card-image project-card-image-preview"
       src="{{ 'data/case-studies/renewals-reporting/IntRenewalThumb.png' | relative_url }}"
@@ -24,11 +53,6 @@ title: Projects
       <p>Ops staff had no view of their own renewals (the company portal was built around AEs) resulting in several report runs to get a full picture. Started as a personal project, adopted by the full team within six weeks, and ended up in Director meetings.</p>
     </div>
   </a>
-</div>
-
-<hr class="project-section-divider" />
-
-## Projects
 
 <div class="project-cards project-cards-list">
   <a class="project-card project-card-horizontal" href="{{ '/data/case-studies/clientrenewaltracking/' | relative_url }}">
