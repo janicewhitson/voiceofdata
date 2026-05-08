@@ -45,16 +45,32 @@ Native visuals only. The original report's custom visual was removed entirely. N
 ## Screenshots
 Incident Overview
 
-![ServiceNow ITSM Incident Overview]({{ '/data/case-studies/servicenow-itsm/SN-ITSM-IncidentOverview.png' | relative_url }})
+<img
+  src="{{ '/data/case-studies/servicenow-itsm/SN-ITSM-IncidentOverview.png' | relative_url }}"
+  alt="ServiceNow ITSM Incident Overview"
+  style="width: min(100%, 1100px); height: auto;"
+/>
 
 Incident Charts
 
-![ServiceNow ITSM Incident Charts]({{ '/data/case-studies/servicenow-itsm/SN-ITSM-IncidentCharts.png' | relative_url }})
+<img
+  src="{{ '/data/case-studies/servicenow-itsm/SN-ITSM-IncidentCharts.png' | relative_url }}"
+  alt="ServiceNow ITSM Incident Charts"
+  style="width: min(100%, 1000px); height: auto;"
+/>
 
 Problems
 
-![ServiceNow ITSM Problems]({{ '/data/case-studies/servicenow-itsm/SN-ITSM-Problems.png' | relative_url }})
+<img
+  src="{{ '/data/case-studies/servicenow-itsm/SN-ITSM-Problems.png' | relative_url }}"
+  alt="ServiceNow ITSM Problems"
+  style="width: min(100%, 1000px); height: auto;"
+/>
 
 Change Requests
 
-![ServiceNow ITSM Change Requests]({{ '/data/case-studies/servicenow-itsm/SN-ITSM-Change.png' | relative_url }})
+<img
+  src="{{ '/data/case-studies/servicenow-itsm/SN-ITSM-Change.png' | relative_url }}"
+  alt="ServiceNow ITSM Change Requests"
+  style="width: min(100%, 1000px); height: auto;"
+/>
