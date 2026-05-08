@@ -9,8 +9,6 @@
   <span class="expertise-tag project-tool-pill">Power Query</span>
 </div>
 
-> **Role:** Business Intelligence Analyst
-> 
 > **Tools:** Excel · Power Query (M)
 > 
 ---
