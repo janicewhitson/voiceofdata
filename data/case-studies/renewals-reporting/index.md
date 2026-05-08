@@ -4,13 +4,9 @@
 
 # Renewals Reporting — SOAR Case Study
 
-> **Working title:** From AE-only visibility to team-wide renewal accountability
->
-> **Role:** Senior Software Licensing Specialist (later part of Client Operations Specialists)
->
-> **Timeline:** Mid-2020 → Early 2021 (active use through 2022)
-
----
+<div class="project-tools case-study-tools" aria-label="Tools used">
+  <span class="expertise-tag project-tool-pill">Excel</span>
+</div>
 
 ## Situation
 

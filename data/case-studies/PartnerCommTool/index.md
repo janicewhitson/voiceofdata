@@ -4,13 +4,9 @@
 
 # Partner Commission Modeling Tool
 
-> **Working title:** Partner Commission Modeling Tool — Concept & Mockup
->
-> **Role:** Independent — built as a favour for a friend
->
-> **Timeline:** ~1–2 hours, single session
-
----
+<div class="project-tools case-study-tools" aria-label="Tools used">
+  <span class="expertise-tag project-tool-pill">Excel</span>
+</div>
 
 ## Situation
 

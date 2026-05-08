@@ -1,5 +1,14 @@
 # ServiceNow Overview — Managed Services ITSM Reporting
 
+<div class="project-tools case-study-tools" aria-label="Tools used">
+  <span class="expertise-tag project-tool-pill">Power BI</span>
+  <span class="expertise-tag project-tool-pill">DAX</span>
+  <span class="expertise-tag project-tool-pill">Bookmarks</span>
+  <span class="expertise-tag project-tool-pill">Dynamic titles</span>
+  <span class="expertise-tag project-tool-pill">ITSM</span>
+  <span class="expertise-tag project-tool-pill">ServiceNow</span>
+</div>
+
 > Power BI  ·  Client-facing  ·  Q3 2024
 
 ## Situation

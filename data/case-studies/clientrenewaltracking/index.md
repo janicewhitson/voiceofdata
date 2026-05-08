@@ -3,8 +3,11 @@
 ---
 
 # Client Renewal Tracker
-> **Role:** Senior Software Licensing Specialist (later part of Client Operations Specialists)
-> 
+
+<div class="project-tools case-study-tools" aria-label="Tools used">
+  <span class="expertise-tag project-tool-pill">Excel</span>
+</div>
+
 > **Tools:** Excel
 
 ## The Problem
