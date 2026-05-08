@@ -48,7 +48,7 @@ Incident Overview
 <img
   src="{{ '/data/case-studies/servicenow-itsm/SN-ITSM-IncidentOverview.png' | relative_url }}"
   alt="ServiceNow ITSM Incident Overview"
-  style="width: min(100%, 1100px); height: auto;"
+  style="max-width: min(100%, 1100px); max-height: 720px; width: auto; height: auto;"
 />
 
 Incident Charts
@@ -56,7 +56,7 @@ Incident Charts
 <img
   src="{{ '/data/case-studies/servicenow-itsm/SN-ITSM-IncidentCharts.png' | relative_url }}"
   alt="ServiceNow ITSM Incident Charts"
-  style="width: min(100%, 1000px); height: auto;"
+  style="max-width: min(100%, 1000px); max-height: 720px; width: auto; height: auto;"
 />
 
 Problems
@@ -64,7 +64,7 @@ Problems
 <img
   src="{{ '/data/case-studies/servicenow-itsm/SN-ITSM-Problems.png' | relative_url }}"
   alt="ServiceNow ITSM Problems"
-  style="width: min(100%, 1000px); height: auto;"
+  style="max-width: min(100%, 1000px); max-height: 720px; width: auto; height: auto;"
 />
 
 Change Requests
@@ -72,5 +72,5 @@ Change Requests
 <img
   src="{{ '/data/case-studies/servicenow-itsm/SN-ITSM-Change.png' | relative_url }}"
   alt="ServiceNow ITSM Change Requests"
-  style="width: min(100%, 1000px); height: auto;"
+  style="max-width: min(100%, 1000px); max-height: 720px; width: auto; height: auto;"
 />
