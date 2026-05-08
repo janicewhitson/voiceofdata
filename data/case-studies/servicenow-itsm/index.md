@@ -74,3 +74,7 @@ Change Requests
   alt="ServiceNow ITSM Change Requests"
   style="max-width: min(100%, 1000px); max-height: 720px; width: auto; height: auto;"
 />
+
+<a class="resume-button" href="{{ 'data/case-studies/' | relative_url }}" aria-label="Back to Projects">
+  <span>Back to Projects</span>
+</a>
