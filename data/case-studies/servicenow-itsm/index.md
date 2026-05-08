@@ -41,3 +41,20 @@ Time to Resolve over SLA tracking. With no formalised SLA in place, standard SLA
 Two incident pages instead of one. When the internal team and client stakeholders had different preferences for how to consume the data, the pragmatic solution was to build both — a matrix view and a charts view — rather than pick a winner.
 
 Native visuals only. The original report's custom visual was removed entirely. Native Power BI visuals loaded faster, rendered more reliably, and were sufficient for everything the report needed to communicate.
+
+## Screenshots
+Incident Overview
+
+![ServiceNow ITSM Incident Overview]({{ '/data/case-studies/servicenow-itsm/SN-ITSM-IncidentOverview.png' | relative_url }})
+
+Incident Charts
+
+![ServiceNow ITSM Incident Charts]({{ '/data/case-studies/servicenow-itsm/SN-ITSM-IncidentCharts.png' | relative_url }})
+
+Problems
+
+![ServiceNow ITSM Problems]({{ '/data/case-studies/servicenow-itsm/SN-ITSM-Problems.png' | relative_url }})
+
+Change Requests
+
+![ServiceNow ITSM Change Requests]({{ '/data/case-studies/servicenow-itsm/SN-ITSM-Change.png' | relative_url }})
