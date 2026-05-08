@@ -8,14 +8,6 @@
   <span class="expertise-tag project-tool-pill">Excel</span>
 </div>
 
-> **Working title:** From AE-only visibility to team-wide renewal accountability
->
-> **Role:** Senior Software Licensing Specialist (later part of Client Operations Specialists)
->
-> **Timeline:** Mid-2020 → Early 2021 (active use through 2022)
-
----
-
 ## Situation
 
 At the time, our organization tracked renewals through a central **renewals portal** that was configured around the **Account Executive (AE)** as the owner of record. I was working on the **Software Licensing Specialists (SLS)** team—later evolving into **Client Operations Specialists (COS)**.
