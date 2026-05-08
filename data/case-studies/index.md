@@ -25,7 +25,7 @@ title: Projects
               <span class="expertise-tag project-tool-pill">ServiceNow</span>
         </div>
       </div>
-      <p>A Power BI report built on ServiceNow data — inherited for a departed developer mid-project and rebuilt around what the managed services team actually referenced in client meetings. Performance-heavy custom visual out, native components in, and a pitchable v1 delivered in under four days.</p>
+      <p>A Power BI report built on ServiceNow data — inherited from a departed developer mid-project and rebuilt around what the managed services team actually referenced in client meetings. Performance-heavy custom visual out, native components in, and a pitchable v1 delivered in under four days.</p>
     </div>
   </a>
 </div>
