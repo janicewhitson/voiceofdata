@@ -110,9 +110,8 @@ title: Projects
     </div>
     
   </a>
-</div>
-
 
 <a class="resume-button" href="{{ 'data/' | relative_url }}" aria-label="Home">
   <span>Home</span>
 </a>
+</div>
