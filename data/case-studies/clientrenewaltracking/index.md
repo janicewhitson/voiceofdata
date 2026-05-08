@@ -8,7 +8,6 @@
   <span class="expertise-tag project-tool-pill">Excel</span>
 </div>
 
-> **Tools:** Excel
 
 ## The Problem
 A mid-sized client with roughly 500 Adobe subscriptions across multiple divisions consistently submitted renewal POs that didn't match their actual entitlements. Orders were split across POs by division even though the publisher treated them as a single agreement, making it easy for quantities to drift. When a renewal order exceeds entitlement, the publisher rejects it — triggering revised POs from the client, revised invoices from us, and a real risk of missing the renewal window entirely. A lapsed renewal means employees lose access to the tools they need to work. The cost touches all three parties: the client's procurement team, the publisher's order processing, and our own account management.
