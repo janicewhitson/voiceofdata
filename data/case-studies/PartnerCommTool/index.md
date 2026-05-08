@@ -8,14 +8,6 @@
   <span class="expertise-tag project-tool-pill">Excel</span>
 </div>
 
-> **Working title:** Partner Commission Modeling Tool — Concept & Mockup
->
-> **Role:** Independent — built as a favour for a friend
->
-> **Timeline:** ~1–2 hours, single session
-
----
-
 ## Situation
 
 A friend working at an early-stage ISV was developing an internal proposal for a formal partner program — something the company had never had. The idea was to create a tiered commission structure that would incentivize external partners to sell the company's products, with commission rates and partner status tied to sales volume and commitment term.
