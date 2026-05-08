@@ -83,6 +83,18 @@ This portfolio is a mix of structured projects and working examples—some are f
 # Projects
 
 <div class="project-cards">
+  <a class="project-card" href="{{ '/data/case-studies/servicenow-itsm/' | relative_url }}">
+    <img
+      class="project-card-image project-card-image-preview"
+      src="{{ '/data/case-studies/servicenow-itsm/SN-ITSM-IncidentOverview.png' | relative_url }}"
+      alt="Incident Overview"
+      loading="lazy"
+    />
+    <h3>ITSM Client Facing Reporting</h3>
+    <p>
+A Power BI ITSM report inherited from a departed developer — rebuilt from the ground up around what the managed services team actually used in client meetings. Four pages, 40+ measures, and a third party global outage spike that told its own story.</p>
+  </a>
+  
   <a class="project-card" href="{{ '/data/case-studies/renewals-reporting/' | relative_url }}">
     <img
       class="project-card-image project-card-image-preview"
@@ -106,16 +118,6 @@ Ops staff had no view of their own renewals (the company portal was built around
     <p>A client with ~500 Adobe subscriptions kept submitting renewal POs that didn't match their entitlements. Caught every discrepancy before submission, and surfaced client context the AE didn't have.</p>
   </a>
   
-  <a class="project-card" href="{{ '/data/case-studies/WinDisk/' | relative_url }}">
-    <img
-      class="project-card-image project-card-image-preview"
-      src="{{ '/data/case-studies/WinDisk/WinDiskReport.png' | relative_url }}"
-      alt="Windows Disk Utilisation Report screenshot"
-      loading="lazy"
-    />
-    <h3>Windows Disk Utilisation Report</h3>
-    <p>Monthly raw export, manually reviewed for high-utilisation disks across a client base. Automated end-to-end in Excel and Power Query — paste the data, set a threshold, get a print-ready report.</p>
-  </a>
 </div>
 
 <div id="projects-end" aria-hidden="true"></div>
