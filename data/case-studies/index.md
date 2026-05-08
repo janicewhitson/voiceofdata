@@ -107,11 +107,10 @@ title: Projects
         </div>
       </div>
       <p>A written proposal for a partner program isn't the same as showing leadership what a partner would actually earn. Built in a single session to make an abstract idea tangible and interactive.</p>
-    </div>
-    
+    </div>    
   </a>
+</div>
 
 <a class="resume-button" href="{{ 'data/' | relative_url }}" aria-label="Home">
   <span>Home</span>
 </a>
-</div>
